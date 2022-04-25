@@ -7,7 +7,7 @@ def spam():
     print(eggs)
 
 
-#
+# Eggs is already assigned
 eggs = 15
 spam()
 print(eggs)
