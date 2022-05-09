@@ -1,0 +1,4 @@
+For loops iterates over values in a list
+range() returns a list like value that can be passed to the list()
+Variables can swap values using multiple assignments
+Augmented assignment operators like += are used as shortcuts

@@ -1,0 +1,5 @@
+.index() returns index of an item in the list
+.append() adds a value to end of list
+.insert() adds a value anywhere in the list
+.remove() removes an item specified by value from a list
+.sort() sorts the items in the list.  can also reverse the order by using reverse=True keyword argument
